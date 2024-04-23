@@ -11,4 +11,3 @@ KDelights is a web-based application that provides a variety of recipes for food
 
 **Usage** <br><br>
 To use the application, simply open the _RecipeBook.html_ file in a web browser.
-
